@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Stanisław Franczak</h1>
-<h3 align="center">Young and aspiring Game Developer</h3>
+<h3 align="center">Young and aspiring .NET Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2022/02/02/10/00/game-6988033_960_720.png">
 
-- 🔭 I’m currently working on [Game for "My First Game Jam"](https://github.com/TaktycznyBocianDev/GameJam_TheyAreAround)
+- 🔭 I’m currently working on **Developing my .NET skills**)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **.NET API**
 
-- 💬 Ask me about **Unity**
+- 💬 Ask me about **Unity (my old Love)**
 
 - 📫 How to reach me **s.franczak20@gmail.com**
 
