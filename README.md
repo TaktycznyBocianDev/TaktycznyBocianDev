@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Stanisław Franczak</h1>
 <h3 align="center">Young and aspiring .NET Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2022/02/02/10/00/game-6988033_960_720.png](https://static.vecteezy.com/system/resources/thumbnails/007/571/395/small/api-line-icon-vector.jpg">
 
-- 🔭 I’m currently working on **Developing my .NET skills**)
 
-- 🌱 I’m currently learning **.NET API**
+<h3 align="center"> - 🔭 I’m currently working on **Developing my .NET skills**)
 
-- 💬 Ask me about **Unity (my old Love)**
+<h3 align="center"> - 🌱 I’m currently learning **.NET API**
 
-- 📫 How to reach me **s.franczak20@gmail.com**
+<h3 align="center"> - 💬 Ask me about **Unity (my old Love)**
+
+<h3 align="center"> - 📫 How to reach me **s.franczak20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
