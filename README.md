@@ -2,13 +2,13 @@
 <h3 align="center">Young and aspiring .NET Developer</h3>
 
 
-<h3 align="center"> - 🔭 I’m currently working on **Developing my .NET skills**)
+<h3 align="center"> - 🔭 I’m currently working on Developing my .NET skills
 
-<h3 align="center"> - 🌱 I’m currently learning **.NET API**
+<h3 align="center"> - 🌱 I’m currently learning .NET API
 
-<h3 align="center"> - 💬 Ask me about **Unity (my old Love)**
+<h3 align="center"> - 💬 Ask me about Unity (my old Love)
 
-<h3 align="center"> - 📫 How to reach me **s.franczak20@gmail.com**
+<h3 align="center"> - 📫 How to reach me s.franczak20@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
