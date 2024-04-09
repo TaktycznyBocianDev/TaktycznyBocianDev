@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stanisław Franczak</h1>
 <h3 align="center">Young and aspiring .NET Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2022/02/02/10/00/game-6988033_960_720.png">
+<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2022/02/02/10/00/game-6988033_960_720.png](https://static.vecteezy.com/system/resources/thumbnails/007/571/395/small/api-line-icon-vector.jpg">
 
 - 🔭 I’m currently working on **Developing my .NET skills**)
 
