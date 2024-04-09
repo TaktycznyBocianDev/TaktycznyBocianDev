@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100009529659327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stanisław franczak" height="30" width="40" /></a>
 <a href="https://instagram.com/s.franczak.bocian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.franczak.bocian" height="30" width="40" /></a>
-</p>
 <a href="https://www.linkedin.com/in/stanis%C5%82aw-franczak-234439219/" target="blank"><img align="center" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=0&g=0&b=0" alt="s.franczak.bocian" height="30" width="40" /></a>
 </p>
 
